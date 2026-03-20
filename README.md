@@ -1,0 +1,1 @@
+PPE Detection using YOLOv8 is a computer vision project that detects whether workers are wearing required Personal Protective Equipment such as helmets, vests, and masks. The model is trained using the YOLOv8 object detection framework to identify safety gear in images or video, helping automate workplace safety monitoring and compliance.
